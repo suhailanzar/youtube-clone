@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding-top: 80px;
+    padding-left: 120px;
+    background-color: rgba(245, 245, 245, 0.719);
+    
+    font-family: Roboto;
+   
+}
+
+h5{
+    
+    font-size: bold;
+    color: rgb(117, 109, 109);
+    
+}
+
+p{
+    color: rgb(56, 48, 48);
+    
+font-family: Roboto;
+font-weight:bolder;
+}
+
+
